@@ -1,0 +1,7 @@
+Hi there!
+
+This code should work on Android 1.6 (i.e. target=4) through Android 2.1 (target=7).
+
+Basically this is a demo of how to hook in to the native camera preview screen and take a picture.  The code doesn't do anything with the picture except display a AlertDialog.  If you want, feel free to use this in your projects.
+
+If you found this useful, shoot me an email at mdinstuhl@gmail.com.

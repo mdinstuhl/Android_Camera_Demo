@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">CameraActivity</string>
+    <string name="app_name">Camera Activity Demo</string>
+	<string name="main_text_view_string">Click the button below to take a picture</string>
+	<string name="camera_button_text">CAMERA BUTTON!!!!111eleven</string>
 </resources>

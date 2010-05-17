@@ -5,9 +5,17 @@
     android:layout_height="fill_parent"
     >
 <TextView  
+	android:id="@+id/main_text_view"
     android:layout_width="fill_parent" 
     android:layout_height="wrap_content" 
-    android:text="Hello World, CameraActivity"
+    android:text="@string/main_text_view_string"
+	android:textSize="@dimen/big_text"
     />
+<Button
+	android:id="@+id/camera_button"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:text="@string/camera_button_text" 
+	android:textSize="@dimen/big_text"/>
 </LinearLayout>
 
